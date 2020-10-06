@@ -1,0 +1,48 @@
+Last login: Thu Oct  1 12:55:03 on ttys000
+MacBook-Pro:~ R2H$ mkdir Basics
+MacBook-Pro:~ R2H$ nano Exercise.txt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  GNU nano 2.0.6             File: Exercise.txt                       Modified  
+
+The terminal is a way to send simple text commands to the computer as well 
+as navigate through files & folders.
+
+
+The main difference between Git and Github, is that Git is just a version
+control system that enables the user to manage and keep track of their 
+source code history. On the other hand, Github is a cloud-based hosting 
+system that enables one to manage their git repositories.
+
+
+We use github, because it enables multiple people to work on a project
+together, working on files and merging changes at the same time. 
+Also, it's a great way for others to look at your code/solo projects.
+
+
+
+
+
+
+
+^G Get Help  ^O WriteOut  ^R Read File ^Y Prev Page ^K Cut Text  ^C Cur Pos
+^X Exit      ^J Justify   ^W Where Is  ^V Next Page ^U UnCut Text^T To Spell
